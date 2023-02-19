@@ -1,0 +1,26 @@
+week 1
+Group was formed. Roles were assigned. We decided our project (Car Space Renting System) and discussed what tools we might use. We also decided on a rough time for a weekly meeting.
+
+week 2
+writing user story and reveiw similar websites.
+
+week 3
+making draft on story board. Write more user story and acceptance criteria.
+
+week 4
+write a doucment to indcate the io interface between frontend and backend.
+
+week 5
+write frontend code
+
+week 7
+finish the work left on sprint 1. Start building authentication function.
+
+week 8
+got covid and finish ui. Connect function to the server.
+
+week 9
+start to work on sprint 3. 
+
+week 10
+writing frontend code and short start script. Finish everything and write report.

@@ -1,0 +1,24 @@
+Week 1
+Group formed. I created the Jira & GitHub accounts. Together with John Smith, I wrote the user story and sprints section of the proposal. I also found and discussed with the team all available software tools and libraries that we can use for the project.
+Week 2
+I wrote the first version of hello.c, api.h, api.c and drafted a design for the Web service API between the client and the server – all by myself.
+
+You should also include in this diary the following information (if applicable) about the project progress:
+- what was planned for the period since the last work diary entry
+- what was finished
+- what were the main technical and non-technical obstacles and how they were overcome (or what was tried and did not work)
+- what was not finished, why this happened, how this affects the overall project progress and what adjustments (if any) are needed so the success of the project is not endangered
+- what is planned for the next period (e.g., next week)
+
+
+Week 1 
+Finding group members, deciding which project to do.
+Week 3
+Writing user stories and acceptance criteria, putting together proposal.
+Transfering written acceptance criteria to jira.
+Decided story points for all user stories.
+Done research into 6 existing systems for the proposal.
+Making software architecture diagram.
+Helped writing description for novel functionality.
+week6
+Finished bookings functions and tested with swagger with Jiaqi and Valerie.

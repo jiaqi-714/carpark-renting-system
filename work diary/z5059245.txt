@@ -1,0 +1,48 @@
+Week 1
+
+Group was formed. Roles were assigned. We decided our project (Car Space Renting System) and discussed what tools we might use. We also decided on a rough time for a weekly meeting.
+
+Week 2
+
+I was sick for all of this week. I thoroughly explored one of the existing websites (parkhound) to check out all their features as well as making an account and creating a dummy car space listing.
+
+I also started on the user stories. The group then roughly finished the rest. 
+
+During our meeting on Saturday, we finished the user stories and settled on a lot of planning decisions (e.g. sprint structure).
+
+Plans for next week: Finish proposal by next friday. Start coding by roughly next Friday.
+
+Week 3
+
+I drafted a sql database schema for our project.
+We finalised a lot of user flow stuff during our group meeting. I also worked on some of the acceptance criteria as well as various parts of the Proposal document.
+
+Proposal was completed Sunday night 19/06/22
+
+Week 4
+ 
+Wrote flask server with basic routes but no logic yet.
+
+Week 5
+
+Caught COVID and wasn't able to work that much. 
+
+Added some stuff in car_spaces.py and fixed some bugs to get the listing routes working properly.
+
+Added token verification which lets us get the userID from the token in the http request header.
+
+Week 7
+
+Added basic review stuff.
+
+Week 8
+
+Added a lot of user related functionality and permission checking.
+
+Week 9
+
+Fixed a lot of database access stuff which was previously hardcoded. Password strength checking added. Made randomly generated booking numbers.
+
+Week 10
+
+Added an easy way to update a row in database with a partial dictionary. Fixed a lot of booking and user stuff.

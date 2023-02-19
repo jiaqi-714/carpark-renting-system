@@ -1,0 +1,54 @@
+Week 1
+Group formation. We assigned group roles and created Jira accounts.
+We then chose a project and discussed what languages and frameworks to use.
+
+Week 2
+We created GitHub accounts and wrote user stories as a group. We labelled the priority
+for each user story and chose which stories to use in the first sprint. I also started
+to draft the storyboard on invision.
+
+We plan to finish most of the proposal by next week Friday so we can start coding.
+
+Week 3
+Alan drafted a few pages of the storyboard which I then fixed. I completed the rest of the
+storyboard/user flow by myself and wrote a description for it in the proposal. For the proposal
+I also wrote about the frontend layer for the software architecture diagram.
+
+Week 4
+For sprint 1, I implemented frontend UI for nav bar, search car space page, book car space page and
+the booking form.
+
+Week 5
+Made minor adjustments to flask server to get it working for frontend. Improved UI for the same pages
+I was working on and connected frontend to backend for search and view car space page. Greyed out
+dates and showing listings according to provider's given times was working.
+
+Not all user stories were completed in Sprint 1 so they will be moved to Sprint 2. Our main technical
+obstacle was connecting the frontend to backend with the fetch api and flask server.
+
+Week 6
+We discussed the inputs needed from the frontend to the backend. I refined the total cost estimation
+to include daily cost and exclude disabled dates. I also created most of the UI for my assigned 
+screens while waiting for the flask functions to be completed.
+
+Week 7
+Working on search, geocoding, booking and basic map for frontend. Also fixing bugs in flask and backend.
+
+Week 8
+I finished connecting frontend to backend for search, booking and system analysis. I also fixed bugs for
+login and register and check whether user is admin. I fixed listings and bookings page and delete booking
+page.
+
+Week 9
+For add car space page I fixed incorrect data types, geocoded the address, check for valid postcode, upload
+image and show average hourly/daily price in the suburb.
+Implemented show recommendation on home screen and search page, and booking auto-cancel on frontend.
+Calculate average rating from reviews on book space page.
+Quickly made a view listing page that also shows bookings.
+Fix default search to have less filters.
+
+Week 10
+Finished map functionality for search and directions route. 
+I replaced add car space autocomplete with the google-maps package already installed.
+Connect booking auto-cancel to backend.
+Fixing bugs with booking total hours.

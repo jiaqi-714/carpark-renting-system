@@ -1,0 +1,10 @@
+jiaqi wang
+Week 1 
+Finding group members, choose what project to do, I am do backend things, mainly database.
+
+Week 2
+Write user stories and acceptance criteria, discuss with group numbers, do some things on database
+schema
+
+Week 3
+Choose sqllite as our database, write sample table and test it.
